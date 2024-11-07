@@ -1,6 +1,8 @@
 # nvim
 
-# Install -- Windows
+## Install
+
+### Windows
 
 Clone this repository to `~\AppData\Local\nvim\`
 
